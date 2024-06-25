@@ -1,5 +1,16 @@
 {
   "projects": {
     "default": "sartori-corretora"
-  }
+  },
+  "targets": {
+    "sartori-corretora": {
+      "hosting": {
+        "sartoricorretora": [
+          "public"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
